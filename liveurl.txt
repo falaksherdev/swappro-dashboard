@@ -1,0 +1,2 @@
+https://swappro-dashboard.netlify.app/dashboard/products
+https://swappro-dashboard.netlify.app/confirmation
